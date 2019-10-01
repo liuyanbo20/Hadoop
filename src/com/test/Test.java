@@ -9,6 +9,7 @@ public class Test {
 			hadoopUtils.init();
 			hadoopUtils.markDir("/liuyanbo20");
 			hadoopUtils.ls("/");
+			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
